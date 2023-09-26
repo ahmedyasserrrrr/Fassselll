@@ -1,0 +1,10 @@
+.navbar img.custom-logo, .theme-header-logo-center img.custom-logo {
+    max-width: 150px;
+    height: auto;
+    }
+.header-fixed-top .navbar-brand {
+        display: none !important;
+    }
+    .not-sticky .sticky-navbar-brand {
+        display: none !important;
+    }
